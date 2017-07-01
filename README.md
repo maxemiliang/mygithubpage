@@ -1,6 +1,6 @@
 # maxemiliang.me
 
-> My new and fresh portfolio
+> My portfolio
 
 ## Build Setup
 
